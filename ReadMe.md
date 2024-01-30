@@ -106,8 +106,8 @@ id: Myanmar
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Myanmar/
-markerFolder: ./Myanmar/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Myanmar] 
