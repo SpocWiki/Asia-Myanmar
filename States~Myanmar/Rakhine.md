@@ -40,11 +40,18 @@ markerFolder: ./Rakhine/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine|Rakhine]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.public|Rakhine.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.internal|Rakhine.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.protect|Rakhine.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.private|Rakhine.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.personal|Rakhine.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Rakhine.secret|Rakhine.secret]] 
+
+### #is_/same_as :: [Rakhine](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Rakhine.md) 
+
+### #is_/same_as :: [Rakhine.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Rakhine.public.md) 
+
+### #is_/same_as :: [Rakhine.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Rakhine.internal.md) 
+
+### #is_/same_as :: [Rakhine.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Rakhine.protect.md) 
+
+### #is_/same_as :: [Rakhine.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Rakhine.private.md) 
+
+### #is_/same_as :: [Rakhine.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Rakhine.personal.md) 
+
+### #is_/same_as :: [Rakhine.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Rakhine.secret.md)
 

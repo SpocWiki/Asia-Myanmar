@@ -126,10 +126,4 @@ Capital :: [[Naypyidaw]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Myanmar|Myanmar]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar.internal|Myanmar.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar.protect|Myanmar.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar.private|Myanmar.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar.personal|Myanmar.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar.secret|Myanmar.secret]] 
+

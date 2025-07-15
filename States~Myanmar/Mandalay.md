@@ -40,11 +40,18 @@ markerFolder: ./Mandalay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay|Mandalay]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.public|Mandalay.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.internal|Mandalay.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.protect|Mandalay.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.private|Mandalay.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.personal|Mandalay.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mandalay.secret|Mandalay.secret]] 
+
+### #is_/same_as :: [Mandalay](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay.md) 
+
+### #is_/same_as :: [Mandalay.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay.public.md) 
+
+### #is_/same_as :: [Mandalay.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay.internal.md) 
+
+### #is_/same_as :: [Mandalay.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay.protect.md) 
+
+### #is_/same_as :: [Mandalay.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay.private.md) 
+
+### #is_/same_as :: [Mandalay.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay.personal.md) 
+
+### #is_/same_as :: [Mandalay.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay.secret.md)
 

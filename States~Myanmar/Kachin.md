@@ -40,11 +40,18 @@ markerFolder: ./Kachin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin|Kachin]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.public|Kachin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.internal|Kachin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.protect|Kachin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.private|Kachin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.personal|Kachin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.secret|Kachin.secret]] 
+
+### #is_/same_as :: [Kachin](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kachin.md) 
+
+### #is_/same_as :: [Kachin.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kachin.public.md) 
+
+### #is_/same_as :: [Kachin.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kachin.internal.md) 
+
+### #is_/same_as :: [Kachin.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kachin.protect.md) 
+
+### #is_/same_as :: [Kachin.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kachin.private.md) 
+
+### #is_/same_as :: [Kachin.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kachin.personal.md) 
+
+### #is_/same_as :: [Kachin.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kachin.secret.md)
 

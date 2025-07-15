@@ -40,11 +40,18 @@ markerFolder: ./Kayin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayin|Kayin]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayin.public|Kayin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayin.internal|Kayin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayin.protect|Kayin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayin.private|Kayin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayin.personal|Kayin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayin.secret|Kayin.secret]] 
+
+### #is_/same_as :: [Kayin](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayin.md) 
+
+### #is_/same_as :: [Kayin.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayin.public.md) 
+
+### #is_/same_as :: [Kayin.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayin.internal.md) 
+
+### #is_/same_as :: [Kayin.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayin.protect.md) 
+
+### #is_/same_as :: [Kayin.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayin.private.md) 
+
+### #is_/same_as :: [Kayin.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayin.personal.md) 
+
+### #is_/same_as :: [Kayin.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayin.secret.md)
 

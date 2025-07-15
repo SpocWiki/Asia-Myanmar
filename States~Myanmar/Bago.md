@@ -40,11 +40,18 @@ markerFolder: ./Bago/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Bago|Bago]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Bago.public|Bago.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Bago.internal|Bago.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Bago.protect|Bago.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Bago.private|Bago.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Bago.personal|Bago.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Bago.secret|Bago.secret]] 
+
+### #is_/same_as :: [Bago](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Bago.md) 
+
+### #is_/same_as :: [Bago.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Bago.public.md) 
+
+### #is_/same_as :: [Bago.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Bago.internal.md) 
+
+### #is_/same_as :: [Bago.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Bago.protect.md) 
+
+### #is_/same_as :: [Bago.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Bago.private.md) 
+
+### #is_/same_as :: [Bago.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Bago.personal.md) 
+
+### #is_/same_as :: [Bago.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Bago.secret.md)
 

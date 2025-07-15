@@ -40,11 +40,18 @@ markerFolder: ./Kayah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayah|Kayah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayah.public|Kayah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayah.internal|Kayah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayah.protect|Kayah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayah.private|Kayah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayah.personal|Kayah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kayah.secret|Kayah.secret]] 
+
+### #is_/same_as :: [Kayah](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayah.md) 
+
+### #is_/same_as :: [Kayah.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayah.public.md) 
+
+### #is_/same_as :: [Kayah.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayah.internal.md) 
+
+### #is_/same_as :: [Kayah.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayah.protect.md) 
+
+### #is_/same_as :: [Kayah.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayah.private.md) 
+
+### #is_/same_as :: [Kayah.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayah.personal.md) 
+
+### #is_/same_as :: [Kayah.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Kayah.secret.md)
 

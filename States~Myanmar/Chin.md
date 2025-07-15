@@ -40,11 +40,18 @@ markerFolder: ./Chin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin|Chin]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.public|Chin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.internal|Chin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.protect|Chin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.private|Chin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.personal|Chin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Chin.secret|Chin.secret]] 
+
+### #is_/same_as :: [Chin](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Chin.md) 
+
+### #is_/same_as :: [Chin.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Chin.public.md) 
+
+### #is_/same_as :: [Chin.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Chin.internal.md) 
+
+### #is_/same_as :: [Chin.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Chin.protect.md) 
+
+### #is_/same_as :: [Chin.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Chin.private.md) 
+
+### #is_/same_as :: [Chin.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Chin.personal.md) 
+
+### #is_/same_as :: [Chin.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Chin.secret.md)
 

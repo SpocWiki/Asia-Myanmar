@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/City/Naypyidaw|Naypyidaw]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/City/Naypyidaw.public|Naypyidaw.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/City/Naypyidaw.internal|Naypyidaw.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/City/Naypyidaw.protect|Naypyidaw.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/City/Naypyidaw.private|Naypyidaw.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/City/Naypyidaw.personal|Naypyidaw.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/City/Naypyidaw.secret|Naypyidaw.secret]] 
+
+### #is_/same_as :: [Naypyidaw](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay/City/Naypyidaw.md) 
+
+### #is_/same_as :: [Naypyidaw.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay/City/Naypyidaw.public.md) 
+
+### #is_/same_as :: [Naypyidaw.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay/City/Naypyidaw.internal.md) 
+
+### #is_/same_as :: [Naypyidaw.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay/City/Naypyidaw.protect.md) 
+
+### #is_/same_as :: [Naypyidaw.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay/City/Naypyidaw.private.md) 
+
+### #is_/same_as :: [Naypyidaw.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay/City/Naypyidaw.personal.md) 
+
+### #is_/same_as :: [Naypyidaw.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mandalay/City/Naypyidaw.secret.md)
+

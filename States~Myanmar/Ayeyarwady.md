@@ -40,11 +40,18 @@ markerFolder: ./Ayeyarwady/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Ayeyarwady|Ayeyarwady]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Ayeyarwady.public|Ayeyarwady.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Ayeyarwady.internal|Ayeyarwady.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Ayeyarwady.protect|Ayeyarwady.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Ayeyarwady.private|Ayeyarwady.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Ayeyarwady.personal|Ayeyarwady.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Ayeyarwady.secret|Ayeyarwady.secret]] 
+
+### #is_/same_as :: [Ayeyarwady](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.md) 
+
+### #is_/same_as :: [Ayeyarwady.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.public.md) 
+
+### #is_/same_as :: [Ayeyarwady.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.internal.md) 
+
+### #is_/same_as :: [Ayeyarwady.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.protect.md) 
+
+### #is_/same_as :: [Ayeyarwady.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.private.md) 
+
+### #is_/same_as :: [Ayeyarwady.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.personal.md) 
+
+### #is_/same_as :: [Ayeyarwady.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.secret.md)
 
