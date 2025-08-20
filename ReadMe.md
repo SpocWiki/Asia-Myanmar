@@ -1,34 +1,35 @@
 ---
 location:
-- 18.265
-- 96.135
+  - 18.265
+  - 96.135
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26963
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Myanmar
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Myanmar
-- ميانمار
-- 缅甸
-- Мьянма
-- the Republic of the Union of Myanmar
-- la República de la Unión de Myanmar
+  - Myanmar
+  - ميانمار
+  - 缅甸
+  - Мьянма
+  - the Republic of the Union of Myanmar
+  - la República de la Unión de Myanmar
 Languages:
-- my
+  - my
 ---
 
 
