@@ -30,10 +30,13 @@ expiryDate:
 
 ```leaflet
 id: Yangon
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Yangon/
+defaultZoom: 9 
+coordinates: [[Yangon]] 
+markerFile: [[Yangon]] 
+geojsonFolder: ./Yangon///
 markerFolder: ./Yangon/
 ```
 
