@@ -84,7 +84,7 @@ Libris_URI: gdsvtt70094tdph
 UN_LOCODE: MMRGN
 ---
 
-# [[Rangoon]] 
+# [[Yangon,City]] 
 
 [geo-lon::96.17] 
 [geo-lat::16.78] 
@@ -99,9 +99,11 @@ Country :: [[Myanmar]]
 ## #has_/map 
 
 ```leaflet
-id: Rangoon
-coordinates: [[Rangoon]] 
-markerFile: [[Rangoon]] 
+id: Yangon,City
+coordinates: [[Yangon,City]] 
+markerFile: [[Yangon,City]] 
+geojsonFolder: ./Yangon,City/
+markerFolder: ./Yangon,City/
 defaultZoom: 11 
 maxZoom: 18
 ```
