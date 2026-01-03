@@ -90,3 +90,20 @@ native_label: တောင်ငူခေတ်
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Toungoo%20dynasty) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/1485-Taungoo_Dynasty+1752|1485-Taungoo_Dynasty+1752]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/1485-Taungoo_Dynasty+1752.public|1485-Taungoo_Dynasty+1752.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/1485-Taungoo_Dynasty+1752.internal|1485-Taungoo_Dynasty+1752.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/1485-Taungoo_Dynasty+1752.protect|1485-Taungoo_Dynasty+1752.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/1485-Taungoo_Dynasty+1752.private|1485-Taungoo_Dynasty+1752.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/1485-Taungoo_Dynasty+1752.personal|1485-Taungoo_Dynasty+1752.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/1485-Taungoo_Dynasty+1752.secret|1485-Taungoo_Dynasty+1752.secret]] 
+

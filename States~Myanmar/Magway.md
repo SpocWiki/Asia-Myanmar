@@ -40,17 +40,17 @@ markerFolder: ./Magway/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magway](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway|Magway]] 
 
-### #is_/same_as :: [Magway.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.public|Magway.public]] 
 
-### #is_/same_as :: [Magway.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.internal|Magway.internal]] 
 
-### #is_/same_as :: [Magway.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.protect|Magway.protect]] 
 
-### #is_/same_as :: [Magway.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.private|Magway.private]] 
 
-### #is_/same_as :: [Magway.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.personal|Magway.personal]] 
 
-### #is_/same_as :: [Magway.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Magway.secret|Magway.secret]] 
 

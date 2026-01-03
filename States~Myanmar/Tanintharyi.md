@@ -40,17 +40,17 @@ markerFolder: ./Tanintharyi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tanintharyi](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi|Tanintharyi]] 
 
-### #is_/same_as :: [Tanintharyi.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.public|Tanintharyi.public]] 
 
-### #is_/same_as :: [Tanintharyi.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.internal|Tanintharyi.internal]] 
 
-### #is_/same_as :: [Tanintharyi.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.protect|Tanintharyi.protect]] 
 
-### #is_/same_as :: [Tanintharyi.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.private|Tanintharyi.private]] 
 
-### #is_/same_as :: [Tanintharyi.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.personal|Tanintharyi.personal]] 
 
-### #is_/same_as :: [Tanintharyi.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Tanintharyi.secret|Tanintharyi.secret]] 
 

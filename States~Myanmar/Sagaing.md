@@ -40,17 +40,17 @@ markerFolder: ./Sagaing/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sagaing](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing|Sagaing]] 
 
-### #is_/same_as :: [Sagaing.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.public|Sagaing.public]] 
 
-### #is_/same_as :: [Sagaing.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.internal|Sagaing.internal]] 
 
-### #is_/same_as :: [Sagaing.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.protect|Sagaing.protect]] 
 
-### #is_/same_as :: [Sagaing.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.private|Sagaing.private]] 
 
-### #is_/same_as :: [Sagaing.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.personal|Sagaing.personal]] 
 
-### #is_/same_as :: [Sagaing.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Sagaing.secret|Sagaing.secret]] 
 

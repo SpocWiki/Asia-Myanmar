@@ -40,17 +40,17 @@ markerFolder: ./Ayeyarwady/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ayeyarwady](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady|Ayeyarwady]] 
 
-### #is_/same_as :: [Ayeyarwady.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.public|Ayeyarwady.public]] 
 
-### #is_/same_as :: [Ayeyarwady.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.internal|Ayeyarwady.internal]] 
 
-### #is_/same_as :: [Ayeyarwady.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.protect|Ayeyarwady.protect]] 
 
-### #is_/same_as :: [Ayeyarwady.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.private|Ayeyarwady.private]] 
 
-### #is_/same_as :: [Ayeyarwady.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.personal|Ayeyarwady.personal]] 
 
-### #is_/same_as :: [Ayeyarwady.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Ayeyarwady.secret|Ayeyarwady.secret]] 
 

@@ -43,17 +43,17 @@ markerFolder: ./Yangon/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yangon](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State|Yangon,State]] 
 
-### #is_/same_as :: [Yangon.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State.public|Yangon,State.public]] 
 
-### #is_/same_as :: [Yangon.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State.internal|Yangon,State.internal]] 
 
-### #is_/same_as :: [Yangon.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State.protect|Yangon,State.protect]] 
 
-### #is_/same_as :: [Yangon.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State.private|Yangon,State.private]] 
 
-### #is_/same_as :: [Yangon.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State.personal|Yangon,State.personal]] 
 
-### #is_/same_as :: [Yangon.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State.secret|Yangon,State.secret]] 
 

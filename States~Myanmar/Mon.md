@@ -39,17 +39,17 @@ markerFolder: ./Mon/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mon](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon|Mon]] 
 
-### #is_/same_as :: [Mon.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.public|Mon.public]] 
 
-### #is_/same_as :: [Mon.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.internal|Mon.internal]] 
 
-### #is_/same_as :: [Mon.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.protect|Mon.protect]] 
 
-### #is_/same_as :: [Mon.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.private|Mon.private]] 
 
-### #is_/same_as :: [Mon.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.personal|Mon.personal]] 
 
-### #is_/same_as :: [Mon.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Mon.secret|Mon.secret]] 
 

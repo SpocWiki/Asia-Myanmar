@@ -51,3 +51,20 @@ By <a href="//commons.wikimedia.org/wiki/User:Hintha" title="User:Hintha">Hintha
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shwedagon%20Pagoda) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City/Shwedagon_Pagoda|Shwedagon_Pagoda]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City/Shwedagon_Pagoda.public|Shwedagon_Pagoda.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City/Shwedagon_Pagoda.internal|Shwedagon_Pagoda.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City/Shwedagon_Pagoda.protect|Shwedagon_Pagoda.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City/Shwedagon_Pagoda.private|Shwedagon_Pagoda.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City/Shwedagon_Pagoda.personal|Shwedagon_Pagoda.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City/Shwedagon_Pagoda.secret|Shwedagon_Pagoda.secret]] 
+

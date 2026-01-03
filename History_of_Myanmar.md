@@ -25,3 +25,20 @@ Commons_category: History of Myanmar
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Myanmar) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar|History_of_Myanmar]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar.public|History_of_Myanmar.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar.internal|History_of_Myanmar.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar.protect|History_of_Myanmar.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar.private|History_of_Myanmar.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar.personal|History_of_Myanmar.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar.secret|History_of_Myanmar.secret]] 
+

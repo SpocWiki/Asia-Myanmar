@@ -40,17 +40,17 @@ markerFolder: ./Shan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shan](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan|Shan]] 
 
-### #is_/same_as :: [Shan.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.public|Shan.public]] 
 
-### #is_/same_as :: [Shan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.internal|Shan.internal]] 
 
-### #is_/same_as :: [Shan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.protect|Shan.protect]] 
 
-### #is_/same_as :: [Shan.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.private|Shan.private]] 
 
-### #is_/same_as :: [Shan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.personal|Shan.personal]] 
 
-### #is_/same_as :: [Shan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Shan.secret|Shan.secret]] 
 

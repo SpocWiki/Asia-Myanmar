@@ -58,3 +58,20 @@ Commons_category: Pyu
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyu%20city-states) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/-0200-Pyu_city-states+1150|-0200-Pyu_city-states+1150]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/-0200-Pyu_city-states+1150.public|-0200-Pyu_city-states+1150.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/-0200-Pyu_city-states+1150.internal|-0200-Pyu_city-states+1150.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/-0200-Pyu_city-states+1150.protect|-0200-Pyu_city-states+1150.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/-0200-Pyu_city-states+1150.private|-0200-Pyu_city-states+1150.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/-0200-Pyu_city-states+1150.personal|-0200-Pyu_city-states+1150.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/History_of_Myanmar/-0200-Pyu_city-states+1150.secret|-0200-Pyu_city-states+1150.secret]] 
+

@@ -76,3 +76,20 @@ native_label: ဧရာဝတီ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Irrawaddy%20River) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/Irrawaddy_River|Irrawaddy_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/Irrawaddy_River.public|Irrawaddy_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/Irrawaddy_River.internal|Irrawaddy_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/Irrawaddy_River.protect|Irrawaddy_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/Irrawaddy_River.private|Irrawaddy_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/Irrawaddy_River.personal|Irrawaddy_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/Irrawaddy_River.secret|Irrawaddy_River.secret]] 
+

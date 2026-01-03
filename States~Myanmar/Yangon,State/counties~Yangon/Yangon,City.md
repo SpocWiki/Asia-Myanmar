@@ -141,17 +141,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rangoon](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon/City/Rangoon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City|Yangon,City]] 
 
-### #is_/same_as :: [Rangoon.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon/City/Rangoon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City.public|Yangon,City.public]] 
 
-### #is_/same_as :: [Rangoon.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon/City/Rangoon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City.internal|Yangon,City.internal]] 
 
-### #is_/same_as :: [Rangoon.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon/City/Rangoon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City.protect|Yangon,City.protect]] 
 
-### #is_/same_as :: [Rangoon.private](/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon/City/Rangoon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City.private|Yangon,City.private]] 
 
-### #is_/same_as :: [Rangoon.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon/City/Rangoon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City.personal|Yangon,City.personal]] 
 
-### #is_/same_as :: [Rangoon.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon/City/Rangoon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar/States~Myanmar/Yangon,State/counties~Yangon/Yangon,City.secret|Yangon,City.secret]] 
 
